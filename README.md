@@ -5,7 +5,7 @@ and I'm </h2>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=14BB28&center=true&vCenter=true&random=false&width=435&lines=A+Data+Engineer;Always+up+for+new+challenges;" alt="Typing SVG" /></a></div>
 
-* 👨🏼‍🎓  I'm currently on my Fifth year at the Moroccan School of Engineering (EMSI)
+* 👨🏼‍🎓  I'm currently in my Fifth year at the Moroccan School of Engineering (EMSI)
 * 🧠  I'm learning Software Engineering
 * 🌍  I'm based in Casablanca
 * 🤝  I'm open to collaborating on interesting projects
@@ -13,7 +13,8 @@ and I'm </h2>
 
 <div align="center">
   
-  ![Data enginner](https://github.com/jadkhafife/aymanehed/assets/84312318/168b45c4-4a97-402c-8a7d-4f4cd6e7a6a3)
+  ![dataengineer](https://github.com/aymanehed/aymanehed/assets/93987581/99740822-8ffd-4151-8d12-595b137999a7)
+
   
 </div>
 
