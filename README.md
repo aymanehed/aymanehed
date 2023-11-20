@@ -40,9 +40,9 @@ University of Côte d'Azur
          <img src="https://github.com/aymanehed/aymanehed/assets/93987581/50ab0558-9e0e-4118-9184-3ae1fe5f5b6c" width=100px />
       <img src="https://github.com/aymanehed/aymanehed/assets/93987581/7c773d44-2bc5-4f93-aee2-53ff605949bd" width=100px />
        <img src="https://github.com/aymanehed/aymanehed/assets/93987581/b3852f35-e6ad-4c84-a964-c1b8a63d5405" width=100px />      
-              <img src="https://github.com/aymanehed/aymanehed/assets/93987581/8a462494-97f6-477d-9213-7974bb433443" width=100px />
+               <img src="https://github.com/aymanehed/aymanehed/assets/93987581/c55f0cdb-4b1e-45f6-b150-985c63d510f4" width=100px />
                         <img src="https://github.com/aymanehed/aymanehed/assets/93987581/7a9270fd-30e5-4d0b-a4d8-fb6969680a48" width=100px />
-                                       <img src="https://github.com/aymanehed/aymanehed/assets/93987581/c55f0cdb-4b1e-45f6-b150-985c63d510f4" width=100px />
+                         
 
 <div>
 
