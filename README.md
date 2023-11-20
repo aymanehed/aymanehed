@@ -8,7 +8,7 @@ and I'm </h2>
 * 👨🏼‍🎓  I'm currently in my Fifth year at the Moroccan School of Engineering (EMSI),while simultaneously pursuing a
 Master's degree in Mobility, Big Data and Systems Integration (MBDS) at the
 University of Côte d'Azur
-* 🧠  I'm learning Data Engineer
+* 🧠  I'm learning Data Engineering & Analytics
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a creative spirit 👨🏼‍🎨
 
