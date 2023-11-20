@@ -1,13 +1,14 @@
-<h1 align="center"> Hi 👋 My name is Aymane Heddad </h1>
+<h1 align="center"> Hi 👋 I'm Aymane Heddad </h1>
 
 <h2 align="center"> from Morocco
 and I'm </h2>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=14BB28&center=true&vCenter=true&random=false&width=435&lines=A+Data+Engineer;Always+up+for+new+challenges;" alt="Typing SVG" /></a></div>
 
-* 👨🏼‍🎓  I'm currently in my Fifth year at the Moroccan School of Engineering (EMSI)
-* 🧠  I'm learning Software Engineering
-* 🌍  I'm based in Casablanca
+* 👨🏼‍🎓  I'm currently in my Fifth year at the Moroccan School of Engineering (EMSI),while simultaneously pursuing a
+Master's degree in Mobility, Big Data and Systems Integration (MBDS) at the
+University of Côte d'Azur
+* 🧠  I'm learning Data Engineer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a creative spirit 👨🏼‍🎨
 
